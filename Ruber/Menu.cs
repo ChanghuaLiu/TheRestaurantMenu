@@ -133,7 +133,7 @@ namespace Ruber
         }
         public decimal Match(int dishnumber)
         {
-            decimal price =0;
+            decimal price = 0;
             decimal[] arr = new decimal[100];
             arr[0] = 0;
             foreach (var dish in Dishes)
