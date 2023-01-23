@@ -147,35 +147,7 @@ namespace Ruber
             }
            return price;
         }
-            //switch (dishnumber)
-            //{
-            //    case 0:
-            //        price = 0m; break;
-            //    case 1:
-            //        price = 12m; break;
-            //    case 2:
-            //        price = 8m; break;
-            //    case 3:
-            //        price = 14m; break;
-            //    case 4:
-            //        price = 14m; break;
-            //    case 5:
-            //        price = 22m; break;
-            //    case 6:
-            //        price = 15m; break;
-            //    case 7:
-            //        price = 15m; break;
-            //}
-
-        //public decimal match(int dishnumber)
-        //{
-        //    decimal price = 0;
-        //    if (dishnumber == 1)
-        //    { 
-        //    price = Dishes;
-        //    }
-        //    return price;
-        //}
+  
 
     }
 }
